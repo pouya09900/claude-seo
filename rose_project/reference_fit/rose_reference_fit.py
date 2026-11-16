@@ -211,7 +211,7 @@ def setup_studio(col):
         dat=bpy.data.lights.new(name,'AREA');dat.energy=power;dat.shape='DISK';dat.size=size
         ob=bpy.data.objects.new(name,dat);col.objects.link(ob);ob.location=loc;aim(ob,(0,0,.45))
     cameras={}
-    for name,loc,scale,target in [('top',(0,0,6),2.30,(0,0,.5)),('perspective',(0,-4,3.9),2.23,(0,0,.58)),('side',(2,-4,1.30),2.30,(0,0,.49))]:
+    for name,loc,scale,target in [('top',(0,0,6),2.85,(0,0,.5)),('perspective',(0,-4,3.9),2.23,(0,0,.58)),('side',(2,-4,1.30),2.30,(0,0,.49))]:
         dat=bpy.data.cameras.new('Camera_'+name);dat.type='ORTHO';dat.ortho_scale=scale;dat.lens=55
         ob=bpy.data.objects.new('Camera_'+name,dat);col.objects.link(ob);ob.location=loc;aim(ob,target);cameras[name]=ob
     return cameras
