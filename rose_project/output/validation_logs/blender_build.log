@@ -1,0 +1,22 @@
+[ROSE] Blender 5.0.1
+/workspace/output/rose_optimized.py:46: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat=bpy.data.materials.get(name) or bpy.data.materials.new(name); mat.use_nodes=True
+[ROSE] Unscaled evaluated bounds: ([-1.0084154605865479, -1.0010360479354858, 0.0], [0.978197455406189, 1.0914181470870972, 1.0145784616470337])
+/workspace/output/rose_optimized.py:199: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  sc.world=bpy.data.worlds.new('Rose studio world');sc.world.use_nodes=True;sc.world.node_tree.nodes['Background'].inputs[0].default_value=(.32,.32,.32,1);sc.world.node_tree.nodes['Background'].inputs[1].default_value=.45
+[ROSE] Consolidating evaluated solids with voxel union
+Info: File exported successfully
+[ROSE] {'vertices': 784338, 'faces': 784400, 'boundary_edges': 0, 'nonmanifold_edges': 0, 'wire_edges': 0, 'degenerate_faces': 0, 'components': 1, 'component_vertices': [784338], 'signed_volume_mm3': 32905.743771472225, 'dimensions_mm': [75.814, 79.862, 42.927], 'downward_face_area_fraction_above_base': 0.37781330855015316, 'removed_secondary_shell_sizes': [8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8], 'minimum_candidate_petal_thickness_mm': 0.48, 'stl_exported': True}
+Info: Saved as "rose_optimized.blend"
+[ROSE] Rendering top
+03:17.365  render           | Saved: '/workspace/output/rose_top.png'
+[ROSE] Rendering perspective
+05:13.624  render           | Saved: '/workspace/output/rose_perspective.png'
+[ROSE] Rendering side
+06:28.960  render           | Saved: '/workspace/output/rose_side.png'
+Info: Saved as "rose_optimized.blend"
+[ROSE] SUCCESS: saved project, renders and diagnostics to /workspace/output
+Blender 5.0.1 (hash a3db93c5b259 built 2025-12-16 01:30:59)
+Timer 'STL Export' took 171.56 ms
+
+Blender quit

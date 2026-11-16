@@ -1,0 +1,23 @@
+{
+  "reopened": true,
+  "blender": "5.0.1",
+  "petal_count": 32,
+  "object_count": 41,
+  "candidate_vertices": 784338,
+  "candidate_faces": 784400,
+  "candidate_boundary_edges": 0,
+  "candidate_nonmanifold_edges": 0,
+  "candidate_positive_volume": true,
+  "stl_roundtrip": {
+    "vertices": 784338,
+    "faces": 1568800,
+    "nonmanifold_edges": 0,
+    "boundary_edges": 0,
+    "dimensions_mm": [
+      75.814,
+      79.862,
+      42.927
+    ],
+    "signed_volume_mm3": 32905.58469963124
+  }
+}
