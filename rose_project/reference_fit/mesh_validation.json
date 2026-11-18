@@ -1,0 +1,36 @@
+{
+  "editable_dimensions_mm": [
+    80.085,
+    79.127,
+    47.995
+  ],
+  "editable_boundary_edges": 0,
+  "editable_nonmanifold_edges": 0,
+  "blender_version": "5.0.1",
+  "parameters": {
+    "bud_petals": 11,
+    "middle_petals": 13,
+    "guard_petals": 8,
+    "diameter_mm": 80.0,
+    "height_mm": 48.0,
+    "bud_tightness": 1.0,
+    "petal_length": 1.0,
+    "petal_width": 1.0,
+    "concavity": 1.0,
+    "vertical_curvature": 1.0,
+    "edge_curl": 1.0,
+    "edge_waviness": 1.0,
+    "layer_overlap": 1.0,
+    "organic_variation": 0.85,
+    "thickness_mm": 0.65,
+    "seed": 23,
+    "resolution_u": 40,
+    "resolution_v": 64,
+    "subdivision": 1,
+    "manufacturing_voxel_mm": 0.32
+  },
+  "petal_count": 29,
+  "manufacturing": {
+    "skipped": "preview iteration"
+  }
+}

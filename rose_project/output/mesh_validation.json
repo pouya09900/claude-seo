@@ -1,0 +1,70 @@
+{
+  "editable_dimensions_mm": [
+    75.984,
+    80.032,
+    43.0
+  ],
+  "editable_boundary_edges": 0,
+  "editable_nonmanifold_edges": 0,
+  "blender_version": "5.0.1",
+  "parameters": {
+    "bud_petals": 11,
+    "middle_petals": 13,
+    "guard_petals": 8,
+    "diameter_mm": 80.0,
+    "height_mm": 43.0,
+    "bud_tightness": 1.0,
+    "petal_length": 1.0,
+    "petal_width": 1.0,
+    "concavity": 1.0,
+    "vertical_curvature": 1.0,
+    "edge_curl": 1.0,
+    "edge_waviness": 1.0,
+    "layer_overlap": 1.0,
+    "organic_variation": 0.85,
+    "thickness_mm": 0.65,
+    "seed": 23,
+    "resolution_u": 40,
+    "resolution_v": 64,
+    "subdivision": 1,
+    "manufacturing_voxel_mm": 0.32
+  },
+  "petal_count": 32,
+  "manufacturing": {
+    "vertices": 784338,
+    "faces": 784400,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "wire_edges": 0,
+    "degenerate_faces": 0,
+    "components": 1,
+    "component_vertices": [
+      784338
+    ],
+    "signed_volume_mm3": 32905.743771472225,
+    "dimensions_mm": [
+      75.814,
+      79.862,
+      42.927
+    ],
+    "downward_face_area_fraction_above_base": 0.37781330855015316,
+    "removed_secondary_shell_sizes": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "minimum_candidate_petal_thickness_mm": 0.48,
+    "stl_exported": true
+  }
+}

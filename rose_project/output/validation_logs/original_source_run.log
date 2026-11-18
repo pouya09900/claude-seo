@@ -1,0 +1,8 @@
+/workspace/attachments/d819f917-5cd6-4d3b-88bb-08b3c859d427/rose_petals-1.py:181: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+Rose built: 30 separate petals
+ORIGINAL_BOUNDS [-0.7986400723457336, -0.7905941605567932, 0.0007276065880432725] [0.8047410249710083, 0.7998859882354736, 1.063076138496399] normalized height 1.3251354075287476
+00:53.390  render           | Saved: '/workspace/work/original_perspective.png'
+Blender 5.0.1 (hash a3db93c5b259 built 2025-12-16 01:30:59)
+
+Blender quit

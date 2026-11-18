@@ -1,0 +1,110 @@
+{
+  "mesh_validation.json": {
+    "bytes": 1379,
+    "sha256": "ef2e1daece74ae2b03cacff2219d83e7bcf61cdf649e5226e0a105a8a29d876b"
+  },
+  "original_input_checksums.json": {
+    "bytes": 281,
+    "sha256": "68c12eefa15cc49ddcf0ba0db9f62e7f809e9a75f79e808e183701eff1cc6f9c"
+  },
+  "original_inputs/converted_images.pdf": {
+    "bytes": 3353440,
+    "sha256": "c7651f37ef086bac6203d1a46e59685d3ad67abdfe1257e81ce088122c679d8e"
+  },
+  "original_inputs/rose model  (1).blend": {
+    "bytes": 527388,
+    "sha256": "e38b010d99b3143c85cbf5d67355ec12202ccc786f8e6306d3da6a78ce9a44ee"
+  },
+  "original_inputs/rose_petals-1.py": {
+    "bytes": 8921,
+    "sha256": "e3c39b63e3bb1eb0762b34c69e8acc923651b18ac283616e7ec4de9d91c9991f"
+  },
+  "original_math_diagnostics.json": {
+    "bytes": 113,
+    "sha256": "e35bce25396480a81605ed4da4d4da70f601d53e531001d6ee80b286790887c3"
+  },
+  "original_source_perspective.png": {
+    "bytes": 494446,
+    "sha256": "23717036e5a59df65c5456249668d376b03f340b11d81aafe184ff53a2e02982"
+  },
+  "reference_page1.jpeg": {
+    "bytes": 153825,
+    "sha256": "474095c536564a95719cf7fc285dac5ed91a686806d86afcb5233f26220e7c67"
+  },
+  "reopen_validation.json": {
+    "bytes": 493,
+    "sha256": "c4b61b4bd1a47a1804d057bfeb6d024a1730e3f27eac168af3c3620c447a63b2"
+  },
+  "rose_before_after.png": {
+    "bytes": 820526,
+    "sha256": "a369767f94b7e9920ee68dff1126b7bcf4528edc7d19e505313f0e75b6898e3d"
+  },
+  "rose_comparison.png": {
+    "bytes": 931733,
+    "sha256": "844f8b44e6f9fec8eadd1af62989bfaa45f5263009a092c6c61066e7e6ca9b26"
+  },
+  "rose_comparison_screenshot.png": {
+    "bytes": 582437,
+    "sha256": "57770039200848bc1144c29a7b906ad41206875e58d0550f7dd2b581d80377ec"
+  },
+  "rose_manufacturing_candidate.stl": {
+    "bytes": 78440084,
+    "sha256": "f369c995c26d762da9e58eae9686d2376fa93b06cfdcb0057fdc935872316b82"
+  },
+  "rose_manufacturing_preview.png": {
+    "bytes": 386893,
+    "sha256": "c7318e1891577e1c0a7574dcf6db776df077cd46406771349d03758b4488ecdf"
+  },
+  "rose_optimized.blend": {
+    "bytes": 28771517,
+    "sha256": "feb2702f297a71c23945f55feeabac9b3dfa43a44c2d01f62cf9c45654aa3edb"
+  },
+  "rose_optimized.py": {
+    "bytes": 16328,
+    "sha256": "b48b26867b0ddf3e12141e160179aa4a568c1b0343619d0df2fde508dfd13386"
+  },
+  "rose_perspective.png": {
+    "bytes": 980531,
+    "sha256": "a6226593f325e69a3c345789e9415c5579db5913d19af662f4ec069d6042dd2c"
+  },
+  "rose_review_screenshot.png": {
+    "bytes": 542733,
+    "sha256": "aa2135160e22c0d7d80313eb2907d056b207c08ae2010b685c00992402b075d0"
+  },
+  "rose_side.png": {
+    "bytes": 920425,
+    "sha256": "79a6d3f82d3a209b8258eef2cd38cf521d93d85439586a4e21822715b7aa8dc6"
+  },
+  "rose_top.png": {
+    "bytes": 1078056,
+    "sha256": "2aa9040f3a5c19ac4d750ff386c0cb0a28b879450e44b915a544dc2af25de2fb"
+  },
+  "validation_logs/blender_build.log": {
+    "bytes": 1827,
+    "sha256": "07c48ca4154a68900beef206c41f224c7e3f9914108523e973ef90ac9158b3a0"
+  },
+  "validation_logs/original_scene_inspection.log": {
+    "bytes": 3561,
+    "sha256": "09a0230a94250d5e284256f38c69d587c7600897dd7678537cb65a52757544fb"
+  },
+  "validation_logs/original_source_run.log": {
+    "bytes": 551,
+    "sha256": "344b7fb56b0eb0389d0525a8385067d8b92925da60c5bd83edee728df4e983b9"
+  },
+  "validation_logs/reopen_and_stl.log": {
+    "bytes": 621,
+    "sha256": "55328d7dba6a041deb46d0181ffb9fffa1f756a03d683d976ab352c4117d6144"
+  },
+  "validation_logs/repeated_rebuild.log": {
+    "bytes": 758,
+    "sha256": "da0201278fd47fe324c07b2efac02139d729eb2e3279257f1afd39d241ceb458"
+  },
+  "validation_report.md": {
+    "bytes": 14093,
+    "sha256": "4539fb0215171285bba3721ba44ab0d49bd0fe13dd8ee34edd617f723b48e73c"
+  },
+  "verify_rose.py": {
+    "bytes": 1774,
+    "sha256": "e96f42ae7b075956c8fd0d36b9b37de1fc4b582b133250146b8d0dcf207fdd25"
+  }
+}
